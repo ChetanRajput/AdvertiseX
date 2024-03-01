@@ -1,0 +1,21 @@
+bid_req_id,user_id,user_age,user_gender,user_interests,user_location,bid_price,device_type,browser,application,ad_campaign_id,event_timestamp
+BID001,USR001,30,Male,Technology,US-New York,0.65,Mobile,Safari,App1,CAM001,2024-02-18T08:00:00
+BID002,USR002,25,,Fashion,US-California,0.8,Desktop,Chrome,App2,CAM002,2024-02-18T09:15:00
+BID003,USR003,35,Male,Sports,US-Texas,0.7,Tablet,Firefox,App3,CAM003,2024-02-18T10:30:00
+BID004,USR004,28,Female,Food,US-California,0.42,Mobile,Safari,App1,CAM001,2024-02-18T11:45:00
+BID005,USR005,40,Male,Technology,US-Texas,0.9,Desktop,Chrome,App2,CAM002,2024-02-18T12:00:00
+BID006,USR006,33,Female,Fashion,US-New York,0.65,Tablet,Firefox,App3,CAM003,2024-02-18T13:15:00
+BID007,USR007,45,Male,Food,US-California,0.75,Mobile,Safari,App1,CAM001,2024-02-18T14:30:00
+BID008,USR008,27,Female,Sports,US-Texas,0.35,Desktop,Chrome,App2,CAM002,2024-02-18T15:45:00
+BID009,USR009,38,Male,Technology,US-New York,0.7,Tablet,Firefox,App3,CAM003,2024-02-18T16:00:00
+BID010,USR010,29,Female,Fashion,US-California,0.8,Mobile,Safari,App1,CAM001,2024-02-18T17:15:00
+BID011,USR011,32,Male,Food,US-Texas,0.75,Desktop,Chrome,App2,CAM002,2024-02-18T18:30:00
+BID012,USR012,26,Female,Sports,US-New York,0.2,Tablet,Firefox,App3,CAM003,2024-02-18T19:45:00
+BID013,USR013,39,Male,Technology,US-California,0.8,Mobile,Safari,App1,CAM001,2024-02-18T20:00:00
+BID014,USR014,31,Female,Fashion,US-Texas,0.85,Desktop,Chrome,App2,CAM002,2024-02-18T21:15:00
+BID015,USR015,34,Male,Food,US-New York,0.5,Tablet,Firefox,App3,CAM003,2024-02-18T22:30:00
+BID016,USR016,37,Female,Sports,US-California,0.9,Mobile,Safari,App1,CAM001,2024-02-18T23:45:00
+BID017,USR017,28,Male,Technology,US-Texas,0.32,Desktop,Chrome,App2,CAM002,2024-02-19T00:00:00
+BID018,USR018,,Female,Fashion,US-New York,0.9,Tablet,Firefox,App3,CAM003,2024-02-19T01:15:00
+BID019,USR019,30,Male,Food,US-California,0.34,Mobile,Safari,App1,CAM001,2024-02-19T02:30:00
+BID020,USR020,33,Female,Sports,US-Texas,0.85,Desktop,Chrome,App2,CAM002,2024-02-19T03:45:00
